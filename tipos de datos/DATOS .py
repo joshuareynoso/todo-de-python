@@ -1,3 +1,12 @@
+#INICIO DEL PROGRAMA DE TIPO DE DATOS SIMPLES
+string = "texto"
+int = "numeros enteros "
+float ="numeros con comas"
+bool = "True o False"
+
+
+#TIPOS DE DATOS COMPUESTOS
+
 #creando una lista (esto se puede modificar)
 lista = ["joshua","pepe","juan"]
 print(lista) #es un tipo de matrix 
@@ -6,7 +15,7 @@ print(lista) #es un tipo de matrix
 tupla=()
 print(tupla)
 
-#esto es valido  
+#esto es valido  (se puede modificar)
 #lista[2]="pedro"
 
 #esto no es valido 
@@ -15,11 +24,11 @@ print(tupla)
 #Creando un conjunto (set) (no tienen un orden fijo),(y no se puede modificar), (no puede tener valores repetidos),(no se puede haceder al indice)
 conjunto = {"joshua","pepe","juan",}
 
-#creando un dicionario 
+#creando un dicionario (al utimo no va con coma )
 dicionario = {
     "Nombre : joshua",
     "Apellido : reynoso",
-    "altura : 1.70",
+    "altura : 1.70"
 }
 
 print(dicionario)
