@@ -13,8 +13,8 @@ else:
     print("no puedes pasar")
 
 
-sueldo_mensual = 300000
-gasto_mensual = 150000
+sueldo_mensual =str(input("ingrese su monto:")) 
+gasto_mensual = str(input("ingre su gasto"))
 
 if sueldo_mensual > 500000:
     

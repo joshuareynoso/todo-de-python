@@ -1,5 +1,5 @@
 #INICIO DEL PROGRAMA DE TIPO DE DATOS SIMPLES
-string = "texto"
+string = "texto" #o str
 int = "numeros enteros "
 float ="numeros con comas"
 bool = "True o False"
