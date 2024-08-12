@@ -18,4 +18,4 @@ resultado7 = False | False #devolvera falso
 resultado8 = not True #devolvera falso
 resultado9 =not  False #devolvera verdadero
 
-print(resultado)
+print(resultado8)
